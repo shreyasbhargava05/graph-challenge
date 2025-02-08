@@ -1,11 +1,19 @@
-# Getting Started with Create React App
+![graph image](https://github.com/shreyasbhargava05/graph-challenge/blob/main/graph.jpg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started 
 
-## Available Scripts
+Take clone of below python project, make it up and running
+
+https://github.com/shreyasbhargava05/Shreyas-python-challenge/tree/main
+
+
+
+## React project Available Scripts
+
+After cloning this react, go to src-> App.js and update "localhost:8000" to what ever url python app is up and running.
 
 In the project directory, you can run:
-
+### `npm install` 
 ### `npm start`
 
 Runs the app in the development mode.\
